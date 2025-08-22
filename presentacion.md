@@ -1,6 +1,6 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
+Hola! Mi nombre es _Santiago Xavier Moreno_.
 
-En mi tiempo libre me gusta...
+En mi tiempo libre me gusta debuggear `Segmentation fault`s y hacer [proyectos interesantes](https://xmoreno.com/posts/disassembler/).
 
-Mi instrucción favorita del manual de intel es...
+Mi instrucción favorita del manual de intel es **GF2P8AFFINEQB**.
